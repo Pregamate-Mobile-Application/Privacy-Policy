@@ -67,9 +67,39 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at [email address].
+If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us at care@pregamate.com..
 
-By using the App, you acknowledge that you have read and understood this Privacy Policy and agree to the collection, use, and disclosure of your personal information as described herein.
+Refund Policy for Pregamate
 
+Thank you for using Pregamate (the "App"). This Refund Policy explains the refund process for any purchases made through the App. We strive to provide a satisfactory user experience, and we are committed to resolving any issues or concerns related to refunds in a fair and transparent manner. By using the App and making purchases, you agree to the terms and conditions outlined in this Refund Policy.
 
-Last updated: 24 May,2023
+In-App Purchases
+
+1.1 Payment Processors: The App may offer in-app purchases, which are processed through authorized third-party payment processors. These payment processors have their own refund policies, and we encourage you to review their terms and conditions regarding refunds.
+
+1.2 Refund Eligibility: Refund eligibility for in-app purchases is subject to the policies of the respective payment processors. Typically, refunds are considered in the following cases:
+Duplicate Purchases: If you accidentally make duplicate purchases of the same item, you may be eligible for a refund for the duplicated transaction.
+Technical Issues: If there are technical issues or errors that prevent you from accessing or using the purchased item or feature, you may be eligible for a refund.
+Unauthorized Purchases: If you notice unauthorized charges or purchases made without your consent, you should report it immediately to the payment processor to seek a refund.
+Requesting a Refund
+
+2.1 Process: To request a refund for an in-app purchase, you must follow the refund process specified by the respective payment processor. Typically, this involves contacting their customer support or accessing your purchase history within the App or payment account.
+
+2.2 Supporting Information: In some cases, the payment processor may require additional information or documentation to process your refund request. You may need to provide details regarding the purchase, transaction ID, or any relevant screenshots or evidence.
+
+Refund Decisions
+3.1 Refund Discretion: The decision to grant a refund is ultimately at the discretion of the payment processor and their policies. We will cooperate with the payment processor in the refund process and provide any necessary information or assistance.
+
+3.2 Refund Processing Time: The time it takes to process a refund may vary depending on the payment processor's policies and procedures. Please refer to the payment processor's refund policy for an estimate of the processing time.
+Non-Refundable Items
+
+4.1 Non-Refundable Purchases: Certain in-app purchases, such as consumable items or subscriptions, may be non-refundable after 7 days of the purchase.
+
+Contact Us
+
+If you have any questions or concerns about this Refund Policy or the refund process, please contact us at care@pregamate.com. We will endeavour to assist you and address any issues to the best of our ability.
+
+Please note that this Refund Policy does not affect any statutory rights you may have as a consumer under applicable laws.
+By using the App and making purchases, you acknowledge that you have read and understood this Refund Policy and agree to the refund terms and conditions outlined herein.
+
+Last updated: [13/06/2023]
