@@ -1,8 +1,65 @@
+Terms and Conditions for Pregamate
+
+Effective Date: 14-06-2023
+
+Please read these Terms and Conditions ("Terms") carefully before using Pregamate (the "App"). These Terms govern your access to and use of the App and constitute a legally binding agreement between you and Pregamate Private Limited. By using the App, you agree to be bound by these Terms. If you do not agree with any of these Terms, please refrain from using the App.
+1. App Usage
+
+1.1 Eligibility: By using the App, you represent and warrant that you are at least 16 years old or have the necessary legal capacity to enter into these Terms.
+
+1.2 User Account: In order to access certain features or areas of the App, you may be required to create a user account. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account. You agree to provide accurate and up-to-date information during the account registration process and to notify us promptly of any unauthorized use or suspected breach of your account.
+
+1.3 Prohibited Conduct: You agree not to engage in any conduct that may:
+Violate any applicable laws, regulations, or third-party rights.
+Interfere with the proper functioning of the App or its infrastructure.
+Impersonate any person or entity, or misrepresent your affiliation with any person or entity.
+Collect, harvest, or store personal information or data of other users.
+Introduce or transmit any viruses, malware, or other malicious code that could harm the App or its users.
+Attempt to gain unauthorized access to the App, its servers, or any related systems or networks.
+
+2. Intellectual Property
+
+2.1 Ownership: The App and its contents, including but not limited to text, graphics, images, logos, and software, are the property of Pregamate Private Limited and are protected by intellectual property laws. You acknowledge that the App is licensed, not sold, to you.
+
+2.2 Limited License: Subject to these Terms, Pregamate Private Limited grants you a limited, non-exclusive, non-transferable license to use the App for your personal, non-commercial use. You may not modify, reproduce, distribute, or create derivative works based on the App or its content without prior written consent from Pregamate Private Limited.
+
+3. Privacy
+Your use of the App is subject to our Privacy Policy, which explains how we collect, use, and disclose your personal information. By using the App, you consent to the practices described in the Privacy Policy.
+
+4. Disclaimer of Warranties
+
+4.1 App Availability: We strive to provide a reliable and uninterrupted user experience. However, the App may be subject to temporary disruptions, maintenance, or updates. We do not warrant that the App will be error-free or continuously available.
+
+4.2 Content Accuracy: The information and content provided through the App are for general informational purposes only. We do not warrant the accuracy, completeness, or reliability of any information or content obtained through the App. You are solely responsible for evaluating the suitability and appropriateness of any activities or lifestyle changes based on the information provided.
+
+4.3 No Medical Advice: The App does not provide medical advice, diagnosis, or treatment. The activities and lifestyle changes suggested through the App are not a substitute for professional medical advice. Consult with a qualified healthcare professional before making any decisions or changes related to your health during pregnancy.
+
+5. Limitation of Liability
+
+5.1 Disclaimer: To the fullest extent permitted by applicable law, Pregamate Private Limited and its affiliates, directors, officers, employees, and agents shall not be liable for any indirect, incidental, special, consequential, or exemplary damages, including but not limited to loss of profits, data, or use, arising out of or in connection with your use of the App.
+
+6. Indemnification
+
+6.1 You agree to indemnify and hold Pregamate Private Limited and its affiliates, directors, officers, employees, and agents harmless from any claims, damages, liabilities, and expenses (including reasonable attorneys' fees) arising out of or in connection with your use of the App, violation of these Terms, or infringement of any rights of third parties.
+
+7. Modifications and Termination
+
+7.1 We reserve the right to modify, suspend, or terminate the App or any part thereof at any time, without prior notice or liability. We may also update or modify these Terms from time to time, and it is your responsibility to review the most current version.
+
+8. Governing Law and Dispute Resolution
+
+8.1 These Terms shall be governed by and construed in accordance with the laws of Delhi High Court. Any dispute arising out of or in connection with these Terms shall be resolved exclusively through binding arbitration in accordance with the rules of Delhi High Court. The language of arbitration shall be English, and the seat of arbitration shall be Delhi, India.
+
+Contact Us
+If you have any questions or concerns about these Terms or the App, please contact us at care@pregamate.com.
+By using the App, you acknowledge that you have read, understood, and agreed to these Terms and Conditions.
+
+Last updated: 14-06-2023
+
+
 Privacy Policy for Pregamate App
 
-
 Effective Date: 24 May,2023
-
 
 Introduction
 
@@ -103,3 +160,32 @@ Please note that this Refund Policy does not affect any statutory rights you may
 By using the App and making purchases, you acknowledge that you have read and understood this Refund Policy and agree to the refund terms and conditions outlined herein.
 
 Last updated: [13/06/2023]
+
+Cancellation Policy for Pregamate
+
+Effective Date: 14-06-2023
+
+Thank you for using Pregamate (the "App"). This Cancellation Policy outlines the process for cancelling your subscription if you are unsatisfied with the App. We strive to provide a satisfactory user experience, and we are committed to addressing any concerns or issues promptly. By using the App, you agree to the terms and conditions outlined in this Cancellation Policy.
+
+Subscription Cancellation
+
+1.1 Cancellation Window: You have the right to cancel your subscription within 7 days of the purchase if you are unsatisfied with the App. This cancellation window is applicable to the initial purchase only and does not apply to subsequent subscription renewals.
+
+1.2 Cancellation Request: To cancel your subscription, you must send an email to care@pregamate.com within the 7-day cancellation window. In your email, please provide your purchase details, including the transaction ID and the email associated with your account.
+
+1.3 Refund Initiation: Upon receiving your cancellation request, we will initiate the refund process within 24 hours. The refund will be issued using the same payment method you used for the original purchase.
+Subscription Renewals
+
+2.1 Renewal: To do so, please follow the instructions provided within the App or contact our support team or write to us at care@pregamate.com.
+Non-Refundable Items
+
+3.1 Non-Refundable Purchases: Certain in-app purchases or add-ons may be non-refundable. This includes consumable items or one-time purchases within the App. Please review the purchase details and terms before making any non-refundable purchases.
+
+Contact Us
+
+If you have any questions or concerns about this Cancellation Policy or the cancellation process, please contact us at care@pregamate.com. We will endeavour to assist you and address any issues to the best of our ability.
+Please note that this Cancellation Policy is subject to applicable laws and regulations, and it does not affect any statutory rights you may have as a consumer.
+
+By using the App, you acknowledge that you have read, understood, and agreed to this Cancellation Policy.
+
+Last updated: 14-06-2023
